@@ -2,7 +2,7 @@
 
 ## Présentation du projet
 
-Scrappy est un utilitaire Python permettant de créer une archive locale d'un site web.
+Scrapy est un utilitaire Python permettant de créer une archive locale d'un site web.
 
 À partir d'une URL de départ, le programme explore automatiquement les pages internes du site, récupère leur contenu textuel et télécharge les images associées afin de constituer une sauvegarde du site.
 
