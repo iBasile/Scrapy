@@ -1,4 +1,4 @@
-# Scrappy
+# Scrapy
 
 ## Présentation du projet
 
